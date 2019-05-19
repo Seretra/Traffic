@@ -1,5 +1,7 @@
 # Seretra
+<p align="center">
 <img src="https://res.nivram710.de/images/devel/seretra-traffic/seretra.png" height=100 />
+</p>
 ## Der Code von unserem Mint-Projekt
 
 Von der Schule aus nehmen wir an einem MINT-Wettbewerb teil.

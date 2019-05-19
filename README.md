@@ -50,9 +50,9 @@ neue Zugriffsberechtigungen festzulegen.
 ### Nginx
 Hier muss keine .htaccess Datei erstellt werden, da Nginx den Zugriff auf Ordner mit der standard Konfiguration verbietet.
 
-# Euer Seretra-Team 
+# Euer Seretra-Team
 Edgar, Marvin K., Olaf, Ben, Timo, Marvin J.
------
+
 <p align="center">
     <img src="https://res.nivram710.de/images/devel/seretra-traffic/seretra.png" height=100 />
 </p>
